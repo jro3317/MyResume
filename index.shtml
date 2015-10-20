@@ -24,7 +24,7 @@
 
 <body>
     <!--#include virtual="header.html" -->
-	<hr>
+	<hr class=clear>
 	<!--#include virtual="welcome.html" -->
     <hr>
     <!--#include virtual="about_me.html" -->
